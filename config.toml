@@ -43,13 +43,13 @@ site = ""
   subtitle = "A developers's blog"   
   owner = "Andrew Alvarez"   
   keywords = ["Web Development", "Full Stack"] 
-  copyright = ""   
+  copyright = "Content by Andrew Alvarez"   
   menuMore = "Show more"  
   readMore = "Read more" 
   readOtherPosts = "Read other posts"   
 
   [languages.en.params.logo]    
-  logoText = "Terminal"  
+  logoText = "Kweizar@blog"  
   logoHomeLink = "/" 
   [languages.en.menu]  
     [[languages.en.menu.main]]    
